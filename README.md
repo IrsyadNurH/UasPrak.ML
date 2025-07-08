@@ -1,2 +1,2 @@
 UAS Prak.ML
-anggota Kelompok : Irsyad Nur H, Fitran A, Marvi Y
+anggota Kelompok :Fitran A, Irsyad Nur H,  Marvi Y
